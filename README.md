@@ -33,3 +33,9 @@ The application has a light and a dark mode
 ### Emergency numbers
 ![Emergency Page (Dark mode)](https://github.com/lukaszkazmierski/eventreportingapp/blob/master/screenshots/emergency_numbers.png)
 
+
+## License
+Event Reporting App is released under the GNU Public License, V3.
+See [LICENSE](https://github.com/lukaszkazmierski/eventreportingapp/blob/master/LICENSE)
+or
+[https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html), 
