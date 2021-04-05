@@ -6,7 +6,8 @@ The application is designed for Android phones and the current language of the a
 The application has a light and a dark mode
 
 # App Presentation
-![](https://github.com/lukaszkazmierski/eventreportingapp/blob/master/gif/app_presentation.gif)
+<img src="https://github.com/lukaszkazmierski/eventreportingapp/blob/master/gif/app_presentation.gif" width="190" height="368" />
+
 
 ## Screenshots
 
